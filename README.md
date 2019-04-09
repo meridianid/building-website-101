@@ -1,5 +1,5 @@
 ![alt text][title]
-![alt text][cover]
+![alt text][cover-alt]
 [![alt text][mission]](http://meridian.id)
 
 # Building Website 101
@@ -164,4 +164,5 @@ Sometimes you just need to deploy the website that you are building so the clien
 
 [title]: https://raw.githubusercontent.com/meridianid/building-website-101/master/docs/title.png "Building website 101"
 [cover]: https://raw.githubusercontent.com/meridianid/building-website-101/master/docs/cover.png "Building website 101"
+[cover-alt]: https://raw.githubusercontent.com/meridianid/building-website-101/master/docs/cover-alt.png "Building website 101"
 [mission]: https://raw.githubusercontent.com/meridianid/building-website-101/master/docs/mission.png "Meridian.id"
