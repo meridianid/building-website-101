@@ -8,20 +8,15 @@
 1. [Overview](#overview)
 2. [Static Website](#static-website)
 3. [Dynamic Website](#dynamic-website)
-
-  * [Client-Side-Rendering (CSR)](#client-side-rendering-(csr))
-  * [Server-Side-Rendering (SSR)](#server-side-rendering-(ssr))
-
+    * [Client-Side-Rendering (CSR)](#client-side-rendering-(csr))
+    * [Server-Side-Rendering (SSR)](#server-side-rendering-(ssr))
 4. [Content Management System (CMS)](#content-management-system-(cms))
-
-  * [Prismic](#prismic)
-  * [Contentful](#contentful)
-  * [Strapi](#strapi)
-
+    * [Prismic](#prismic)
+    * [Contentful](#contentful)
+    * [Strapi](#strapi)
 5. [Deployment](#deployment)
-
-  * [Production Deployment](#production-deployment)
-  * [Development Deployment](#development-deployment)
+    * [Production Deployment](#production-deployment)
+    * [Development Deployment](#development-deployment)
 
 ## Overview
 
