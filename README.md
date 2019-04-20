@@ -15,9 +15,8 @@
     * [Contentful](#contentful)
     * [Strapi](#strapi)
     * [Wordpress](#wordpress)
-5. [Deployment](#deployment)
-    * [Production Deployment](#production-deployment)
-    * [Development Deployment](#development-deployment)
+5. [Deep Comparison](#deep-comparison)
+6. [Deployment](#deployment)
 
 ## Overview
 
@@ -45,10 +44,12 @@
 
 Wordpress 5.0 built with RESTful API out of the box that can be consumed by any kind of website and mobile app. When it comes to building an online shop, wordpress really shines because it's plugins.
 
+---
+
+## Deep Comparison
+
+For now, you can view the deep comparison in this [spreadsheet](https://docs.google.com/spreadsheets/d/172LvheWOWiEdzvvoD_XZ6qPCRKRb9IgXvtUjld3xqlY/edit?usp=sharing)
+
 ## Deployment
-
-### Production deployment
-
-### Development deployment
 
 Sometimes you just need to deploy the website that you are building so the client can access it and give some feedback. For this purpose, we have few alternatives other than deploying to the shared hosting or production server.
