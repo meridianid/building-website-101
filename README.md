@@ -16,6 +16,7 @@
     * [Strapi](#strapi)
     * [Wordpress](#wordpress)
     * [Ghost](#ghost)
+    * [Netlify](#netlify)
 5. [Deep Comparison](#deep-comparison)
 6. [Deployment](#deployment)
 
@@ -47,7 +48,10 @@ Wordpress 5.0 built with RESTful API out of the box that can be consumed by any 
 
 ### Ghost
 
-[Ghost](https://ghost.org/) The hosted solution is rather expensive but you can use it as a self-hosted app for free because it it open source.
+[Ghost](https://ghost.org/) The hosted solution is rather expensive but you can use it as a self-hosted app for free because it is open source.
+
+### Netlify
+[Netlify](https://www.netlify.com)
 
 ---
 
