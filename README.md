@@ -24,7 +24,9 @@ At Meridian.id, we are using React.js as our official stack for frontend, but a 
 
 ## Static Website
 
-The good old ways of building website.
+The good old ways of building website. Static website is a website which files are static (pre-built) and served without change from the server.
+
+The term "static" does not mean that your site has no dynamic capabilities. It simply means that that your site consists of a set of "pre-built" files (namely html, js, and css files) that are directly served on request.
 
 ### Gatsby.js
 
@@ -32,8 +34,8 @@ The good old ways of building website.
 
 #### Pros
 
-* It's super fast
 * Build website with React.js (means we can take advantages of using the our component library, and the react ecosystem is just awesome)
+* It's super fast. Since content is pre-generated, no more time needed to dynamically generate content! This means no database queries, no html templating, etc.
 * A lot of plugins to help you improve your website performance (i.e. lazy load images, served various image sizes, etc.)
 * SEO friendly
 * Lots of deployment options (i.e. [GithubPages](https://www.gatsbyjs.org/docs/how-gatsby-works-with-github-pages/), [Now.sh](https://www.gatsbyjs.org/docs/deploying-to-now/), [Surge.sh](https://www.gatsbyjs.org/tutorial/part-one/#deploying-a-gatsby-site), [Netlify](https://www.gatsbyjs.org/docs/hosting-on-netlify/), and many more). Especially in the early stage of development when you need to show it to the client, you can deploy your website with just single command on the terminal.
@@ -44,7 +46,14 @@ The good old ways of building website.
 * Need a lot of work for online shop or e-commerce functionality. We are working on it. But for now, you are better off with wordpress if you want to have an online shop or ecommerce website.
 * Static website (means you need to rebuild and redeploy when you want to update) -- can be solved with CI/CD
 
+#### When to use gatsby
+
+Any kind of static website that doesn't required a really fast changing content, i.e. **Company profile, Event website, and Blog**.
+The most important thing to do if you want to build a gatsby website for the client is you need to communicate that to update the content, gatsby website need to rebuild and redeploy. While it's necessarily complex and too long to do that, and it can be overcome with some CI/CD setup, the client still need to aware of that.
+
 ## Dynamic Website
+
+Dynamic website is a website which files are dynamically generated with each incoming request on the server and then served.
 
 ### Client-Side-Rendering (CSR)
 
