@@ -1,6 +1,8 @@
-# Building Website 101
+![alt text][title]
+![alt text][cover]
+![alt text][mission]
 
-> Crafted with ❤️ by [Meridian.id](http://meridian.id)
+# Building Website 101
 
 ### Table of Contents
 
@@ -159,3 +161,7 @@ For now, you can view the deep comparison in this [spreadsheet](https://docs.goo
 ## Deployment
 
 Sometimes you just need to deploy the website that you are building so the client can access it and give some feedback. For this purpose, we have few alternatives other than deploying to the shared hosting or production server.
+
+[title]: https://raw.githubusercontent.com/meridianid/building-website-101/master/docs/title.png "Building website 101"
+[cover]: https://raw.githubusercontent.com/meridianid/building-website-101/master/docs/cover.png "Building website 101"
+[mission]: https://raw.githubusercontent.com/meridianid/building-website-101/master/docs/mission.png "Meridian.id"
