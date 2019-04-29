@@ -15,6 +15,8 @@
     * [Contentful](#contentful)
     * [Strapi](#strapi)
     * [Wordpress](#wordpress)
+    * [Ghost](#ghost)
+    * [Netlify](#netlify)
 5. [Deep Comparison](#deep-comparison)
 6. [Deployment](#deployment)
 
@@ -63,7 +65,7 @@ Dynamic website is a website which files are dynamically generated with each inc
 
 ### Prismic
 
-[Primsic.io](https://prismic.io) come with a very generous free-tier and webhook integrations with minimal setup. The free-tier also hosted on prismic server with SSL enabled. It's super good for a blogging platform or just a simple company profile that want to have some updated content capabilities.
+[Prismic.io](https://prismic.io) come with a very generous free-tier and webhook integrations with minimal setup. The free-tier also hosted on prismic server with SSL enabled. It's super good for a blogging platform or just a simple company profile that want to have some updated content capabilities.
 
 ### Contentful
 
@@ -72,6 +74,13 @@ Dynamic website is a website which files are dynamically generated with each inc
 ### Wordpress
 
 Wordpress 5.0 built with RESTful API out of the box that can be consumed by any kind of website and mobile app. When it comes to building an online shop, wordpress really shines because it's plugins.
+
+### Ghost
+
+[Ghost](https://ghost.org/) The hosted solution is rather expensive but you can use it as a self-hosted app for free because it is open source.
+
+### Netlify
+[Netlify](https://www.netlify.com)
 
 ---
 
