@@ -1,10 +1,8 @@
 ![alt text][title]
 ![alt text][cover]
-![alt text][mission]
+[![alt text][mission]](http://meridian.id)
 
 # Building Website 101
-
-### Table of Contents
 
 1. [Overview](#overview)
 2. [Static Website](#static-website)
