@@ -1,6 +1,6 @@
 # Building Website 101
 
-> When you already know that you need a website, but you can't decide what kind of website do you need. Crafted with ❤️ by [Meridian.id](http://meridian.id)
+> Crafted with ❤️ by [Meridian.id](http://meridian.id)
 
 ##### Table of Contents
 
@@ -20,9 +20,29 @@
 
 ## Overview
 
+At Meridian.id, we are using React.js as our official stack for frontend, but a more diverse stack for the backend.
+
 ## Static Website
 
+The good old ways of building website.
+
 ### Gatsby.js
+
+[Gatsby.js](https://www.gatsbyjs.org/) is a static site generator based on React.js. It provides a lot useful and easy-to-use plugins that will help us on building high performance and beautiful website. Most of the heavy-lifting works already done, mostly you just need to focus on building your layouts.
+
+#### Pros
+
+* It's super fast
+* Build website with React.js (means we can take advantages of using the our component library, and the react ecosystem is just awesome)
+* A lot of plugins to help you improve your website performance (i.e. lazy load images, served various image sizes, etc.)
+* SEO friendly
+* Lots of deployment options (i.e. [GithubPages](https://www.gatsbyjs.org/docs/how-gatsby-works-with-github-pages/), [Now.sh](https://www.gatsbyjs.org/docs/deploying-to-now/), [Surge.sh](https://www.gatsbyjs.org/tutorial/part-one/#deploying-a-gatsby-site), [Netlify](https://www.gatsbyjs.org/docs/hosting-on-netlify/), and many more). Especially in the early stage of development when you need to show it to the client, you can deploy your website with just single command on the terminal.
+* Lots of data sources options, because gatsby just the front-side of the webiste. So, basically you can use anything for the data sources.
+
+#### Cons
+
+* Need a lot of work for online shop or e-commerce functionality. We are working on it. But for now, you are better off with wordpress if you want to have an online shop or ecommerce website.
+* Static website (means you need to rebuild and redeploy when you want to update) -- can be solved with CI/CD
 
 ## Dynamic Website
 
