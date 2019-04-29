@@ -8,9 +8,9 @@
 2. [Static Website](#static-website)
     * [Gatsby.js](#gatsby.js)
 3. [Dynamic Website](#dynamic-website)
-    * [Client-Side-Rendering (CSR)](#client-side-rendering-(csr))
-    * [Server-Side-Rendering (SSR)](#server-side-rendering-(ssr))
-4. [Content Management System (CMS)](#content-management-system-(cms))
+    * [Client-Side-Rendering (CSR)](#client-side-rendering-csr)
+    * [Server-Side-Rendering (SSR)](#server-side-rendering-ssr)
+4. [Content Management System (CMS)](#content-management-system-cms)
     * [Prismic](#prismic)
     * [Contentful](#contentful)
     * [Strapi](#strapi)
@@ -28,9 +28,8 @@ At [Meridian.id](http://meridian.id), we love React.js. And if the client doesn'
 
 The main reason we choose React.js for our stack are:
 
-It's an **Universal/Isomorphic Javascript** which means it can be used on the client side and also on the server. Which is the most valuable feature, because we can use React.js to use a static markup on the server which is ready to be rendered in the browser as-is. This is important for both speed and SEO. Universal rendering also make it possible to use the same code-base on both the server and client. This makes our code-base considerably simpler. JavaScript everywhere!
-
-The **Components (Modular Design FTW!)** approach, means you can split your UI into simple, independent components which focus on doing one thing. This also means it’s easy for many developers to work on the same project without conflicts. Components make fixing bugs and refactoring very easy. You can just take the part of the UI that isn’t working, and either fix it or replace it.
+* It's an **Universal/Isomorphic Javascript** which means it can be used on the client side and also on the server. Which is the most valuable feature, because we can use React.js to use a static markup on the server which is ready to be rendered in the browser as-is. This is important for both speed and SEO. Universal rendering also make it possible to use the same code-base on both the server and client. This makes our code-base considerably simpler. JavaScript everywhere!
+* The **Components (Modular Design FTW!)** approach, means you can split your UI into simple, independent components which focus on doing one thing. This also means it’s easy for many developers to work on the same project without conflicts. Components make fixing bugs and refactoring very easy. You can just take the part of the UI that isn’t working, and either fix it or replace it.
 
 Although these features aren’t exclusive to React. They just work for us.
 
