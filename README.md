@@ -4,9 +4,6 @@
 
 # Building Website 101
 
-> This is a guidelines on deciding what kind of web to build for our client needs.
-> It's also served as guidelines on where the company is heading in terms of web technology, so the team knows what they need to learn and improve.
-
 1. [Overview](#overview)
 2. [Static Website](#static-website)
     * [Gatsby.js](#gatsby.js)
@@ -26,6 +23,9 @@
 ---
 
 ## Overview
+
+> This is a guidelines on deciding what kind of web to build for our client needs.
+> It's also served as guidelines on where the company is heading in terms of web technology, so the team knows what they need to learn and improve.
 
 At [Meridian.id](http://meridian.id), we love React.js. And if the client doesn't have any specific needs for their stack or it's all up to us, we will try to build anything with React.js for the front-end of the site and using a more various stack for the backend.
 
