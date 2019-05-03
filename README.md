@@ -23,8 +23,7 @@
 
 ## Overview
 
-> This is a guidelines on deciding what kind of web to build for our client needs.
-> It's also served as guidelines on where the company is heading in terms of web technology, so the team knows what they need to learn and improve.
+> This is a guidelines on deciding what kind of web to build for our client needs. It's also served as guidelines on where the company is heading in terms of web technology, so the team knows what they need to learn and improve.
 
 At [Meridian.id](http://meridian.id), we love React.js. And if the client doesn't have any specific needs for their stack or it's all up to us, we will try to build anything with React.js for the front-end of the site and using a more various stack for the backend.
 
@@ -39,7 +38,7 @@ Although these features aren’t exclusive to React. They just work for us. And 
 
 ## Static Website
 
-The good old ways of building website. Static website is a website which files are static (pre-built) and served without change from the server.
+Static website is a website which files are static (pre-built) and served without change from the server.
 
 The term "static" does not mean that your site has no dynamic capabilities. It simply means that that your site consists of a set of "pre-built" files (namely html, js, and css files) that are directly served on request.
 
@@ -89,7 +88,7 @@ We are using a starter-kit built on top of [create-react-app](https://facebook.g
 
 #### When to use CSR with create-react-app
 
-Web app for internal system with no requirements for SEO, i.e. **Admin Pages (Dashboard)**
+Web app for internal system, web app, and any kind of site with no requirements for SEO, i.e. **Admin Pages (Dashboard)**
 
 ---
 
